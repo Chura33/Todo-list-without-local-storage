@@ -1,0 +1,28 @@
+body{
+  padding: 15px;
+  background-color:#66CCFF;
+  font-family: sans-serif; 
+}
+#title{
+  padding: 10px;
+  font-size: 36px;
+  border: 2px solid #fff;
+  width: 250px;
+
+}
+#todo-header{
+  font-size: 24px;
+}
+
+ul{
+  list-style: none;
+  padding-left: 0px;
+  width: 250px;
+}
+li{
+  color: #333;
+  background-color: rgba(255,255,255,.5);
+  padding: 15 px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
